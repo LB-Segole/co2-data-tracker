@@ -5,5 +5,5 @@ window.OFFTAKE_CONFIG = {
   SUPABASE_URL: "https://qgedhjkeykkwqbhjriqh.supabase.co",
   SUPABASE_ANON_KEY: "sb_publishable_PnkL4KGTkYuBccUR7IzC7A_1E1HVA2r",
   TABLE_NAME: "co2_listings",
-  CONTACT_INBOX: "exchange@sgldevelopments.site"
+  CONTACT_INBOX: "sgldevelopment21@gmail.com"
 };
